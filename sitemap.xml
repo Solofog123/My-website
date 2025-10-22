@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://solofog123.github.io/My-website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://solofog123.github.io/My-website/</loc>
+</url>
+<url>
+<loc>https://solofog123.github.io/My-website/history-of-liverpool.html</loc>
+<lastmod>2025-10-22T09:20:32+02:00</lastmod>
+</url>
+<url>
+<loc>https://solofog123.github.io/My-website/liverpool.html</loc>
+<lastmod>2025-10-22T09:23:04+02:00</lastmod>
+<image:image>
+<image:loc>https://solofog123.github.io/My-website/media/posts/2/2025-26-squad-photo-30092025-large.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
